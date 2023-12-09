@@ -3,6 +3,7 @@
 	"author": "Kgotso Makhalimele",
 	"description": "A project for freeCodeCamp",
 	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
